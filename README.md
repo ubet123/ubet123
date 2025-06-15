@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br>👨‍💻 MERN Stack Developer | Software Engineering Student<br>💡 Building responsive full-stack applications with React.js, Node.js, Express, and MongoDB — styled with Tailwind CSS and deployed on modern platforms.<br>🚀 Passionate about crafting impactful solutions, contributing to open-source, and transforming ideas into interactive web experiences.<br><br>
+👨‍💻 MERN Stack Developer | Software Engineering Student<br>💡 Building responsive full-stack applications with React.js, Node.js, Express, and MongoDB — styled with Tailwind CSS and deployed on modern platforms.<br>🚀 Passionate about crafting impactful solutions, contributing to open-source, and transforming ideas into interactive web experiences.<br><br>
 
 
 ## 🌐 Socials:
